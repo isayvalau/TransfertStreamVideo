@@ -1,7 +1,6 @@
-TUTORIAL STREAMING VIDEO
-Problematics:
-•	How to stream a video from a smartphone?
-•	How to display it in an Android activity on a second smartphone?
+#TUTORIAL STREAMING VIDEO
+
+
 
 I.	Sending and retrieving the video stream
 
